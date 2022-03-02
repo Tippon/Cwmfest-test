@@ -1,10 +1,10 @@
 {
   "name": "Cwmaman Music Festival",
-  "short_name": "CwmFest",
+  "short_name": "Cwmfest",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#fdfdfd",
-  "theme_color": "#db4938",
+  "theme_color": "#e0d300",
   "orientation": "portrait-primary",
   "icons": [
     {
