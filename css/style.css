@@ -80,7 +80,7 @@ li {
 }
 @media screen and (max-width: 600px) {
   div.header {
-    font-size: 10px;
+    font-size: 0px;
   }
 }
 h1 {
