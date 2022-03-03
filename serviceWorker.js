@@ -1,23 +1,31 @@
-const staticDevCoffee = "dev-coffee-site-v1"
+const staticCwmfest = "cwmfest-site-v1"
 const assets = [
   "/",
   "/index.html",
   "/css/style.css",
   "/js/app.js",
-  "/images/coffee1.jpg",
-  "/images/coffee2.jpg",
-  "/images/coffee3.jpg",
-  "/images/coffee4.jpg",
-  "/images/coffee5.jpg",
-  "/images/coffee6.jpg",
-  "/images/coffee7.jpg",
-  "/images/coffee8.jpg",
-  "/images/coffee9.jpg",
+  "images/posters/2008poster.jpg",
+  "images/posters/2009poster.jpg",
+  "images/posters/2009faces1.jpg",
+  "images/posters/2009faces2.jpg",
+  "images/posters/2010flyer.jpg",
+  "images/posters/2010poster.jpg",
+  "images/posters/2011flyer.jpg",
+  "images/posters/2012poster.jpg",
+  "images/posters/2013flyer.jpg",
+  "images/posters/2013poster.jpg",
+  "images/posters/2014poster.jpg",
+  "images/posters/2015poster.jpg",
+  "images/posters/2016poster.jpg",
+  "images/posters/201710yearposter.jpg",
+  "images/posters/2017poster.jpg",
+  "images/posters/2018poster.jpg",
+  "images/posters/2019poster.jpg",
 ]
 
 self.addEventListener("install", installEvent => {
   installEvent.waitUntil(
-    caches.open(staticDevCoffee).then(cache => {
+    caches.open(staticDevPosters).then(cache => {
       cache.addAll(assets)
     })
   )
