@@ -4,7 +4,7 @@
   "id": "/Cwmfest/index.html",
   "start_url": "index.html",
   "display": "standalone",
-  "background_color": "#fdfdfd",
+  "background_color": "#e0d300",
   "theme_color": "#e0d300",
   "orientation": "portrait-primary",
   "icons": [

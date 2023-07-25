@@ -7,14 +7,14 @@ const headerContent = `<meta http-equiv="X-Clacks-Overhead" content="GNU Terry P
 			<ul>
 				<li><a href="index.html">Home</a></li>
 				<li><a href="lineup.html">Lineup</a></li>
-				<li><a href="programme.html">Programme</a></li>
+				<!-- <li><a href="programme.html">Programme</a></li> -->
 				<li><a href="map.html">Map</a></li>
-				<li><a href="sponsors.html">Sponsors</a></li>
 			</ul>
 		</nav>
 		<br>
 		<nav>
 			<ul>
+				<li><a href="sponsors.html">Supported By</a></li>
 				<li><a href="changes.html">Last Minute Changes</a></li>
 			</ul>
 		</nav>`;

@@ -222,8 +222,8 @@ h1 {
 .card--title {
   color: #222;
   font-weight: 700;
-  text-transform: capitalize;
-  font-size: 0.85rem;
+  //text-transform: capitalize;
+  font-size: 1rem;
   margin-top: 0.5rem;
 }
 .card--link {

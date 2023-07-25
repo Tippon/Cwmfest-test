@@ -1,6 +1,7 @@
 const footerContent = `<br>
 <h2 class="w3-wide">#MusicInTheVillage</h2>
 <h2 class="w3-wide">#Cwmfest23</h2>
+<h2 class="w3-wide">#ForMartyn</h2>
 <br>
 <!-- Footer -->
 <footer class="w3-container w3-padding-64 w3-center w3-black w3-xlarge">
@@ -14,6 +15,7 @@ const footerContent = `<br>
 <credits class="w3-container w3-center w3-content">
 	<h5 class="w3-wide">Website and app design by Ryan at GPD Music</h5>
 	<h5 class="w3-wide">Artwork and programmes by Su at Bizarre Dragonz</h5>
+	<h5 class="w3-wide">Videos from 2022 onwards by <a href="https://www.youtube.com/channel/UC6WOsXwN3l3s8kUbQgT0DeQ" target="_blank">@PaskyWales</a></h5>
 </credits>`;
 
 class Footer extends HTMLElement {
