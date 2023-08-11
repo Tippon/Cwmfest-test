@@ -17,7 +17,6 @@ const posters = [
 	{ name: "2017 Poster", image: "images/posters/2017poster.webp" },
 	{ name: "2018 Poster", image: "images/posters/2018poster.webp" },
 	{ name: "2019 Poster", image: "images/posters/2019poster.webp" },
-	{ name: "2022 Poster", image: "images/posters/2022poster.webp" },
 ]
 const showPosters = () => {
   let output = ""

@@ -1,9 +1,8 @@
 const container = document.querySelector(".container")
 const sponsors = [
-	{ name: "Kelray Ltd. - www.kelray.co.uk", image: "images/Sponsors/kelray.png", link: "http://www.kelray.co.uk/" },
-	{ name: "The Garage - Aberdare", image: "images/Sponsors/garage.jpg", link: "https://www.facebook.com/thegarageaberdare" },
+	{ name: "Kelray Ltd.", image: "images/Sponsors/kelray.webp", link: "http://www.kelray.co.uk/" },
+	{ name: "The Garage - Aberdare", image: "images/Sponsors/garage.webp", link: "https://www.facebook.com/thegarageaberdare" },
 	{ name: "The National Lottery Community Fund", image: "images/Sponsors/lottery.png", link: "https://www.tnlcommunityfund.org.uk/" },
-	{ name: "Pen Y Cymoedd Wind Farm Community Fund", image: "images/Sponsors/windfarm.jpg", link: "https://penycymoeddcic.cymru/home/" }
 ]
 const showSponsors = () => {
   let output = ""

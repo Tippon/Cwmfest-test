@@ -1,7 +1,7 @@
 const headerContent = `<meta http-equiv="X-Clacks-Overhead" content="GNU Terry Pratchett" />
 
 			<div class="banner">
-				<a href="index.html"><img src="images/Cover.png" alt="Cwmaman Music Festival"></a>
+				<a href="index.html"><img src="images/Cover.webp" alt="Cwmaman Music Festival"></a>
 			</div>
 		<nav>
 			<ul>
